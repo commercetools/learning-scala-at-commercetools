@@ -83,4 +83,7 @@ We understand that after 6 months, you won’t have mastered every aspect of Sca
 ## Check our existing roles and apply now!
 
 [Backend Engineer - Pricing Team (m/f/x)](https://boards.greenhouse.io/commercetools/jobs/4586157003)
+
 [Scala Engineer - Checkout Team (m/f/x)](https://boards.greenhouse.io/commercetools/jobs/4577319003)
+
+Or [learn more](https://commercetools.com/careers) about us!
